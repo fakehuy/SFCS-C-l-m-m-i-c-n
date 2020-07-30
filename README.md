@@ -3,5 +3,5 @@ You need to install XAMPP + MySQL + PHP first.
 Go to C:\xampp\htdocs
 -> Add file App in C:\xampp\htdocs
 Open chrome: 
-  home -> http://localhost/App/
-  home Vendor Owner -> http://localhost/App/admin/
+  -home -> http://localhost/App/  ||
+  -home Vendor Owner -> http://localhost/App/admin/
